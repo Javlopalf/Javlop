@@ -15,3 +15,9 @@ lin_reg.fit(X, y)
 
 acc_cv = cross_val_score(lin_reg, X, y, cv=5)
 print("Performance in CV 5 folds: {:.2%}+-{:.2%}".format(np.mean(acc_cv), np.std(acc_cv)))
+
+
+data = cross_val_score(lin_reg, X, y, cv=5)
+
+
+
