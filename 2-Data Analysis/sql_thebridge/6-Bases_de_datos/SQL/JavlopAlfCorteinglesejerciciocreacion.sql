@@ -3,7 +3,7 @@
    Script: CORTEINGLESsCRIPT.sql
    Description: Creates and populates the database.
    DB Server: MySql
-   Author: ALBERTO LAZARO
+   Author: Javier Lopez
    License: http://www.codeplex.com/ChinookDatabase/license
 ********************************************************************************/
 
